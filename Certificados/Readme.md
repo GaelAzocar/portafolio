@@ -16,7 +16,8 @@ La estructura está dividida en dos niveles:
 ## 🎓 Cursos
 
 ### 🔐 Cybersecurity  
-*(Seguridad de redes, gestión de riesgos, detección de amenazas, respuesta a incidentes)*  
+*(Seguridad de redes, gestión de riesgos, detección de amenazas, respuesta a incidentes)*
+- Instalador Profesional de Cámaras de Seguridad 2025 (8,5 hrs) 
 - Assets, Threats, and Vulnerabilities (XX hrs)  
 - Automate Cybersecurity Tasks with Python (XX hrs)  
 - Connect and Protect: Networks and Network (XX hrs)  
@@ -24,13 +25,18 @@ La estructura está dividida en dos niveles:
 - IT Security: Defense Against the Digital Dark Arts (XX hrs)  
 - Play It Safe: Manage Security Risks (XX hrs)  
 - Put It to Work: Prepare for Cybersecurity Jobs (XX hrs)  
-- Sound the Alarm: Detection and Response (XX hrs)  
+- Sound the Alarm: Detection and Response (XX hrs)
 
 ### 📊 Data Analysis  
 *(Limpieza de datos, fundamentos de SQL, análisis exploratorio de datos, toma de decisiones basadas en datos)*  
 - Ask Questions to Make Data-Driven Decisions (XX hrs)  
 - Prepare Data for Exploration (XX hrs)  
 - Process Data from Dirty to Clean (XX hrs)  
+
+### ☁️ Cloud  
+*(Fundamentos de la nube, servicios de Azure, administración de recursos en la nube)*
+- AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025 (8,5 hrs)  
+- AZ-900: Microsoft Azure Fundamentals Original Practice Tests (300 preguntas)  
 
 ### 🌐 Networking & IT  
 *(Configuración de redes, Cisco CCNA, TCP/IP, Linux, administración de sistemas)*  
@@ -39,7 +45,8 @@ La estructura está dividida en dos niveles:
 - System Administration and IT Infrastructure (XX hrs)  
 - Technical Support Fundamentals (XX hrs)  
 - The Bits and Bytes of Computer Networking (XX hrs)  
-- Tools of the Trade: Linux and SQL (XX hrs)  
+- Tools of the Trade: Linux and SQL (XX hrs)
+- Ace the CCNA v1.1 with Realistic Practice Exams (300 preguntas)  
 
 ### 💻 Programming  
 *(Programación en Python, scripting, automatización)*  
