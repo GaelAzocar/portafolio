@@ -25,6 +25,7 @@ La estructura está dividida en dos niveles:
 - Tools of the Trade: Linux and SQL (23 hrs)
 - Getting Started with Wireshark: The Ultimate Hands-On Course (4.5 hrs)
 - Ace the CCNA v1.1 with Realistic Practice Exams (300 preguntas)
+- Introduction to Network Simulations with Cisco Modeling Labs (CMLLAB) (8.5 hrs)
 
 
 ### 🔐 02 - Cybersecurity & Threat Management
