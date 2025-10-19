@@ -26,7 +26,10 @@ Google IT Support Path:
   - Operating Systems and You: Becoming a Power User (27 hrs)
   - System Administration and IT Infrastructure Services (24 hrs)
   - IT Security: Defense Against the Digital Dark Arts (22 hrs)
-  
+
+Support:
+  - Soporte Técnico a Computadoras en Entornos Corporativos (10.5 hrs)
+
 Protocols:
   - OSPF for the Real World - From Zero to Hero (6.5 hrs) <- In progress
 
@@ -97,3 +100,4 @@ German:
 
 Mathematics:
   - Become a Calculus 1 Master (13 hrs) <- In progress
+
