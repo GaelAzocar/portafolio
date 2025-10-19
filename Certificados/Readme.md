@@ -15,12 +15,12 @@ La estructura está dividida en dos niveles:
 
 ### 🌐 01 - Networking & IT Infrastructure
 
-CCNA Route:
+CCNA Path:
   - Master Cisco CCNA 200-301: Comprehensive All-in-One Course (50 hrs)
   - Cisco CCNA: Fundamentos de Networking para Redes IP (16 hrs)
   - Ace the CCNA v1.1 with Realistic Practice Exams (300 preguntas)
     
-Google IT Support Route:
+Google IT Support Path:
   - Technical Support Fundamentals (19 hrs)
   - The Bits and Bytes of Computer Networking (22 hrs)
   - Operating Systems and You: Becoming a Power User (27 hrs)
@@ -36,10 +36,10 @@ Network Software & Tools:
 <br><br>
 ### 🔐 02 - Cybersecurity & Threat Management
 
-CompTIA Security+ Route:
+CompTIA Security+ Path:
   - CompTIA Security+ (SY0-701) Complete Course & Practice Exam (31 hrs) <- In progress
 
-Google Cybersecurity Route:
+Google Cybersecurity Path:
   - Foundations of Cybersecurity (10 hrs)
   - Play It Safe: Manage Security Risks (9 hrs)
   - Connect and Protect: Networks and Network Security (11 hrs)
@@ -61,13 +61,13 @@ Programming Fundamentals:
 <br><br>
 ### ☁️ 05 - Cloud, DevOps & Virtualization
 
-Azure Fundamentals Route:
+Azure Fundamentals Path:
   - AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025 (8.5 hrs)
   - AZ-900: Microsoft Azure Fundamentals Original Practice Tests (300 preguntas)
 <br><br>
 ### 📊 06 - Data Science & Business Intelligence 📊
 
-Google Data Analytics Route:
+Google Data Analytics Path:
   - Foundations: Data, Data, Everywhere (12 hrs)
   - Ask Questions to Make Data-Driven Decisions (15 hrs)
   - Prepare Data for Exploration (18 hrs)
@@ -78,7 +78,7 @@ BI software & Tools:
 <br><br>
 ### ⚙️ 07 - Project & Process Management
 
-Google Project Management Route:
+Google Project Management Path:
   - Foundations of Project Management (12 hrs)
 <br><br>
 ### 🤝 08 - Soft Skills & Leadership 
