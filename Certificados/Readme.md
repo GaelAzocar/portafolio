@@ -15,70 +15,85 @@ La estructura está dividida en dos niveles:
 
 ### 🌐 01 - Networking & IT Infrastructure
 
-- Cisco CCNA: Fundamentos de Networking para Redes IP (16 hrs)
-- Master Cisco CCNA 200-301: Comprehensive All-in-One Course (50 hrs)
-- The Bits and Bytes of Computer Networking (22 hrs)
-- OSPF for the Real World - From Zero to Hero (6.5 hrs)
-- Operating Systems and You: Becoming a Power User (27 hrs)
-- Technical Support Fundamentals (19 hrs)
-- System Administration and IT Infrastructure Services (24 hrs)
-- Tools of the Trade: Linux and SQL (23 hrs)
-- Getting Started with Wireshark: The Ultimate Hands-On Course (4.5 hrs)
-- Ace the CCNA v1.1 with Realistic Practice Exams (300 preguntas)
-- Introduction to Network Simulations with Cisco Modeling Labs (CMLLAB) (8.5 hrs)
+CCNA Route:
+  - Master Cisco CCNA 200-301: Comprehensive All-in-One Course (50 hrs)
+  - Cisco CCNA: Fundamentos de Networking para Redes IP (16 hrs)
+  - Ace the CCNA v1.1 with Realistic Practice Exams (300 preguntas)
+    
+Google IT Support Route:
+  - Technical Support Fundamentals (19 hrs)
+  - The Bits and Bytes of Computer Networking (22 hrs)
+  - Operating Systems and You: Becoming a Power User (27 hrs)
+  - System Administration and IT Infrastructure Services (24 hrs)
+  - IT Security: Defense Against the Digital Dark Arts (22 hrs)
+  
+Protocols:
+  - OSPF for the Real World - From Zero to Hero (6.5 hrs) <- In progress
 
-
+Network Software & Tools:
+  - Getting Started with Wireshark: The Ultimate Hands-On Course (4.5 hrs)
+  - Introduction to Network Simulations with Cisco Modeling Labs (CMLLAB) (8.5 hrs)
+<br><br>
 ### 🔐 02 - Cybersecurity & Threat Management
 
-- Assets, Threats, and Vulnerabilities (19 hrs)
-- Automate Cybersecurity Tasks with Python (24 hrs)
-- Connect and Protect: Networks and Network Security (11 hrs)
-- Foundations of Cybersecurity (10 hrs)
-- IT Security: Defense Against the Digital Dark Arts (22 hrs)
-- Play It Safe: Manage Security Risks (9 hrs)
-- Put It to Work: Prepare for Cybersecurity Jobs (10 hrs)
-- Sound the Alarm: Detection and Response (18 hrs)
+CompTIA Security+ Route:
+  - CompTIA Security+ (SY0-701) Complete Course & Practice Exam (31 hrs) <- In progress
 
-
+Google Cybersecurity Route:
+  - Foundations of Cybersecurity (10 hrs)
+  - Play It Safe: Manage Security Risks (9 hrs)
+  - Connect and Protect: Networks and Network Security (11 hrs)
+  - Tools of the Trade: Linux and SQL (23 hrs)
+  - Assets, Threats, and Vulnerabilities (19 hrs)
+  - Sound the Alarm: Detection and Response (18 hrs)
+  - Automate Cybersecurity Tasks with Python (24 hrs)
+  - Put It to Work: Prepare for Cybersecurity Jobs (10 hrs)
+<br><br>
 ### 🏠 03 - Smart Environments & IoT
 
-- Instalador Profesional de Cámaras de Seguridad 2025 (8.5 hrs)
-
-
+Security Systems:
+  - Instalador Profesional de Cámaras de Seguridad 2025 (8.5 hrs)
+<br><br>
 ### 💻 04 - Programming & Industrial Automation
 
-- Python TOTAL: Programador Avanzado en 16 días (30.5 hrs)
-
-
+Programming Fundamentals:
+  - Python TOTAL: Programador Avanzado en 16 días (30.5 hrs)
+<br><br>
 ### ☁️ 05 - Cloud, DevOps & Virtualization
 
-- AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025 (8.5 hrs)
-- AZ-900: Microsoft Azure Fundamentals Original Practice Tests (300 preguntas)
-
-
+Azure Fundamentals Route:
+  - AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025 (8.5 hrs)
+  - AZ-900: Microsoft Azure Fundamentals Original Practice Tests (300 preguntas)
+<br><br>
 ### 📊 06 - Data Science & Business Intelligence 📊
 
-- Foundations: Data, Data, Everywhere (12 hrs)
-- Ask Questions to Make Data-Driven Decisions (15 hrs)
-- Prepare Data for Exploration (18 hrs)
-- Process Data from Dirty to Clean (16 hrs)
+Google Data Analytics Route:
+  - Foundations: Data, Data, Everywhere (12 hrs)
+  - Ask Questions to Make Data-Driven Decisions (15 hrs)
+  - Prepare Data for Exploration (18 hrs)
+  - Process Data from Dirty to Clean (16 hrs)
 
+BI software & Tools:
+  - Excel TOTAL en 30 Días - Excel completo de Cero a Avanzado (37.5 hrs) <- In progress
+<br><br>
+### ⚙️ 07 - Project & Process Management
 
-### ⚙️ 07 - Methodologies & Process Improvement  
-
-- Foundations of Project Management (12 hrs)
-
-
+Google Project Management Route:
+  - Foundations of Project Management (12 hrs)
+<br><br>
 ### 🤝 08 - Soft Skills & Leadership 
 
-- Accelerate Your Job Search with AI (6 hrs)
-
-
+Professional Development:
+  - Accelerate Your Job Search with AI (6 hrs)
+<br><br>
 ### 🌍 09 - Languages  
 
-- Best Way to Learn German Language: Full Beginner (A1.1) (8 hrs)
-- Best Way to Learn German Language: Beginner Level 2 (A1.2) (5.5 hrs)
-- German Language A1 Certificate - Exam Preparation (10 hrs)
+German:
+  - Best Way to Learn German Language: Full Beginner (A1.1) (8 hrs)
+  - Best Way to Learn German Language: Beginner Level 2 (A1.2) (5.5 hrs)
+  - German Language A1 Certificate - Exam Preparation (10 hrs) <- In progress
+<br><br>
+### 🧮 10 - Mathematics & Physical Sciences
 
-
-### 🧮 10 - Mathematics & Sciences
+Mathematics:
+  - Become a Calculus 1 Master (13 hrs) <- In progress
