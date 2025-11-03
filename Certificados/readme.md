@@ -54,7 +54,7 @@ This repository contains my certifications and completed courses across multiple
 - Automate Cybersecurity Tasks with Python *(24 hrs)*
 - Put It to Work: Prepare for Cybersecurity Jobs *(10 hrs)*
 <br><br>
-## 🔹 04 – Smart Environments & IoT
+## 🔹 04 – Smart Environments & Interactive Systems
 
 #### Security Systems:
 - Professional CCTV Installation 2025 *(8.5 hrs)*
