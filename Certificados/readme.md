@@ -42,7 +42,7 @@ This repository contains my certifications and completed courses across multiple
 ## 🔹 03 – Cybersecurity & Threat Management
 
 #### CompTIA Security+ Path:
-- CompTIA Security+ (SY0-701) Complete Course & Practice Exam *(31 hrs)* *(In progress)*
+- CompTIA Security+ (SY0-701) Complete Course & Practice Exam *(31 hrs)*
 
 #### Google Cybersecurity Path:
 - Foundations of Cybersecurity *(10 hrs)*
@@ -63,6 +63,10 @@ This repository contains my certifications and completed courses across multiple
 
 #### Programming Fundamentals:
 - Python TOTAL: Advanced Programmer in 16 Days *(30.5 hrs)*
+
+#### Electrical Foundations:
+- Industrial Electrical Blueprint Reading from Scratch (3 hrs)
+- Protection and Maintenance of Electric Motors (7.5 hrs)
 <br><br>
 ## 🔹 06 – Cloud, DevOps & Virtualization
 
@@ -86,10 +90,13 @@ This repository contains my certifications and completed courses across multiple
 #### Google Project Management Path:
 - Foundations of Project Management *(12 hrs)*
 <br><br>
-## 🔹 09 - Soft Skills, Communication & Leadership
+## 🔹 09 - Soft Skills, Communication & Compliance
 
 #### Professional Development:
 - Accelerate Your Job Search with AI *(6 hrs)*
+
+#### Occupational Safety:
+- Accident Prevention, Safety, and Workplace Risk Management 2025 *(3.5 hrs)*
 
 #### German Language:
 - Best Way to Learn German: Full Beginner (A1.1) *(8 hrs)*
